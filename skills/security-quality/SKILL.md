@@ -1,0 +1,2 @@
+# Security Quality
+Segurança proporcional à arquitetura: sem segredos no cliente/repositório; minimizar dependências; validar entradas no servidor quando houver backend; HTTPS; headers no host quando suportado; dependências auditadas; sem rotas de teste/admin em produção; logs sem segredos/dados pessoais desnecessários. Não inventar backend para site estático.

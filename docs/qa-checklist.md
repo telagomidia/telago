@@ -1,0 +1,13 @@
+# QA
+- [ ] Oferta/cidade compreensíveis rapidamente
+- [ ] Sem decoração genérica sem função
+- [ ] Desktop e mobile intencionais
+- [ ] CTA primário evidente
+- [ ] Navegação por teclado e foco visível
+- [ ] Skip link e contraste
+- [ ] prefers-reduced-motion
+- [ ] Semântica correta
+- [ ] title, description, OG e Schema verdadeiros
+- [ ] Sem dependências runtime desnecessárias
+- [ ] Sem tokens/segredos
+- [ ] WhatsApp real substitui placeholder antes de produção comercial

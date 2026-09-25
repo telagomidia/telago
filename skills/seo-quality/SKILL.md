@@ -1,0 +1,2 @@
+# SEO Quality
+Verificar title, description, headings, HTML semântico, links descritivos, Open Graph, canonical no domínio final, sitemap/robots no ambiente final, dados estruturados verdadeiros, imagens otimizadas, performance e conteúdo local útil. Nunca inventar avaliações, endereço, telefone ou resultados.

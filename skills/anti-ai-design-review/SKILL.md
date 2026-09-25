@@ -1,0 +1,2 @@
+# Anti-AI Design Review
+Procure sinais de geração genérica: repetição de cards, frases vazias, alinhamento previsível, gradientes/blur gratuitos, mockups artificiais, seções com mesma cadência, ícones sem função e excesso de microcopy. Para cada achado, explique por que enfraquece identidade e proponha correção concreta. Preserve clareza, conversão e acessibilidade.
