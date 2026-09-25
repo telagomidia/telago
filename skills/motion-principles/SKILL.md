@@ -1,0 +1,2 @@
+# Motion Principles
+Motion é feedback e hierarquia, não decoração. Entrada discreta; conteúdo nunca depende de animação; preferir transform/opacity; respeitar prefers-reduced-motion. Skeleton/loading/progress somente quando existe espera real. Lazy loading somente quando necessário. Evitar parallax agressivo e scroll hijacking.
